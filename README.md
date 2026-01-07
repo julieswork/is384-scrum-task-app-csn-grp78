@@ -16,7 +16,7 @@ group work
   
   7. Developer 5:
    
-  8.Developer 6:
+  8. Developer 6:
 
 
 Short description on what the project is about
