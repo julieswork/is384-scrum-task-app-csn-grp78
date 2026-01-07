@@ -10,9 +10,9 @@ group work
    
   4. Developer 2:
    
-  5.Developer 3:
+  5. Developer 3:
 
-  6.Developer 4:Benta Victory Timbulu
+  6. Developer 4:Benta Victory Timbulu
   
   7. Developer 5:
    
