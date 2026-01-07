@@ -1,6 +1,6 @@
 # is384-scrum-task-app-csn-grp78
 group work
-Group Assignment 1(Group 8) Cloud Based Management App
+ Cloud Based Management App
 
 1.Product owner:(Names)
 2.Scrum Master:
