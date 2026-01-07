@@ -2,13 +2,13 @@
 group work
 Group Assignment 1(Group 8) Cloud Based Management App
 
-Product owner:(Names)
-Scrum Master:
-  Developer 1:
-  Developer 2:
-  Developer 3:
-  Developer 4:Benta Victory Timbulu
-  Developer 5:
-  Developer 6:
+1.Product owner:(Names)
+2.Scrum Master:
+  3. Developer 1:
+  4. Developer 2:
+  5.Developer 3:
+  6.Developer 4:Benta Victory Timbulu
+  7. Developer 5:
+  8.Developer 6:
 
 Short description on what the project is about
