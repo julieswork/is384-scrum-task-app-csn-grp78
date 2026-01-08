@@ -6,7 +6,7 @@ group work
  
   2.Scrum Master:
  
-  3. Developer 1:
+  3. Developer 1:julieth japhet rutaihwa
    
   4. Developer 2:
    
